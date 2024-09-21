@@ -1,0 +1,13 @@
+*{
+  padding: 0%;
+  margin: 0%;
+}
+
+:root{
+  --background-color:#23282D;
+  --white-color:#ffff;
+  --nav-color:#333a41;
+}
+body{
+  /* background: var(--background-color); */
+}
